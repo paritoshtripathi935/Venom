@@ -2,6 +2,7 @@ You're given a number N. If N is divisible by 5 or 11 but not both then print "O
 
 Input:
 First-line will contain the number N.
+
 Output:
 Print the answer in a newline.
 
@@ -11,15 +12,20 @@ Sample Input 1:
 50
 Sample Output 1:
 ONE
+
 Sample Input 2:
 110
 Sample Output 2:
 BOTH
-Sample Input 2:
+
+Sample Input 3:
 16
-Sample Output 2:
+Sample Output 3:
 NONE
+
 EXPLANATION:
 In the first example, 50 is divisible by 5, but not 11.
+
 In the second example, 110 is divisible by both 5 and 11.
+
 In the third example, 16 is not divisible by 5 or 11.
