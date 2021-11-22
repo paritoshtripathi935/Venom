@@ -1,4 +1,4 @@
- CodeChef <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef"> <img align = "right" src ="https://img.shields.io/github/stars/paritoshtripathi935/Codechef_solutions?style=flat-square&logo=CodeChef">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">
+ CodeChef <img align = "right" src ="https://img.shields.io/github/watchers/paritoshtripathi935/Codechef_solutions?style=flat-square&logo=CodeChef"> <img align = "right" src ="https://img.shields.io/github/stars/paritoshtripathi935/Codechef_solutions?style=flat-square&logo=CodeChef">    <img align = "right" src ="https://img.shields.io/github/forks/paritoshtripathi935/Codechef_solutions?style=flat-square&logo=CodeChef">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![Main Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -8,17 +8,12 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) &nbsp;
 [![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) &nbsp;
 ![AUR license](https://img.shields.io/aur/license/android-studio?color=red&label=LICENCE&logo=CodeChef&logoColor=yellow&style=flat-square) &nbsp;
-[![GitHub issues](https://img.shields.io/github/issues/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/issues) &nbsp;
+[![GitHub issues](https://img.shields.io/github/issues/paritoshtripathi935/Codechef_solutions?style=flat-square)](https://github.com/paritoshtripathi935/Codechef_solutions/issues) &nbsp;
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hhhrrrttt222111/CodeChef?style=flat-square)  &nbsp;
 [![Contributors](https://img.shields.io/github/contributors/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/graphs/contributors) &nbsp;
-[![Languages](https://img.shields.io/github/languages/count/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/search?l=Markdown) &nbsp;
+[![Languages](https://img.shields.io/github/languages/count/paritoshtripathi935/Codechef_solutions?style=flat-square)](https://github.com/paritoshtripathi935/Codechef_solutions/search?l=Markdown) &nbsp;
 
  <br>
- 
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/hhhrrrttt222111/CodeChef?style=flat-square) &nbsp;
-
-
-
 
 </div>
  
