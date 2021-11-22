@@ -7,7 +7,7 @@
 ![AUR license](https://img.shields.io/aur/license/android-studio?color=red&label=LICENCE&logo=CodeChef&logoColor=yellow&style=flat-square) &nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/paritoshtripathi935/Codechef_solutions?style=flat-square)](https://github.com/paritoshtripathi935/Codechef_solutions/issues) &nbsp;
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hhhrrrttt222111/CodeChef?style=flat-square)  &nbsp;
-[![Contributors](https://img.shields.io/github/contributors/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/paritoshtripathi935/Codechef_solutions/graphs/contributors) &nbsp;
+[![Contributors](https://img.shields.io/github/contributors/paritoshtripathi935/Codechef_solutions?style=flat-square)](https://github.com/paritoshtripathi935/Codechef_solutions/graphs/contributors) &nbsp;
 [![Languages](https://img.shields.io/github/languages/count/paritoshtripathi935/Codechef_solutions?style=flat-square)](https://github.com/paritoshtripathi935/Codechef_solutions/search?l=Markdown) &nbsp;
 
  <br>
