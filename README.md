@@ -25,8 +25,3 @@
  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
  [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
  [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
-
-## Complete CodeChef solutions in Python, Java, C, C++, Ruby, JS, Dart, C#, Perl, GO etc..   <br><br>
-
-#### Programming is not just about learning a particular coding language but also practicing it with varieties of situations and applying your knowledge in solving coding problems. Our aim should not be to only learn a language but understand it from all dimensions, which is possible by deep learning and practice and so the platforms like codechef, HackerRank, HackerEarth, and many more, helps you learn about these various possibilities and test your knowledge. This repository aims to bring everyone into the competitive coding world. It contains the solutions of all coding problems in CodeChef in multiple languages.
- 
