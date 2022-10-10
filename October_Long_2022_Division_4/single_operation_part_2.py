@@ -26,24 +26,11 @@ int main() {
   return 0;
 }
 """
-# convert above cpp code to python3
 
-"""
-input
-4
-2
-10
-2
-11
-3
-101
-3
-110
-"""
 
 def SOP(n,s):
     c = 0
-    for i in range(n):
+    for i in range(n-1):
         c += 1
         if s[i+1] == '1':
             break
@@ -53,7 +40,6 @@ def main():
     t = int(input())
     for _ in range(t):
         n = int(input())
-        # take binary string as input and convert it to list
         s = str(input())
         print(SOP(n,s))
     
